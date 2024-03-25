@@ -1,7 +1,7 @@
 # - Hi, I’m @pincherMaria
-I’m interested in country music
-<br>Currently learning Java Frameworks
-<br>Looking to collaborate on quite anything to gain some experience
+country music :D
+<br>Currently learning Java Frameworks, starting python
+<br>Looking to collaborate on literally anything to gain some experience
 <br><br>**mariaschwarz** on discord
 
 <!---
