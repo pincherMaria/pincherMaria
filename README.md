@@ -2,7 +2,7 @@
 country music :D
 <br>Currently learning Java Frameworks, starting python
 <br>Looking to collaborate on literally anything to gain some experience
-<br><br>**mariaschwarz** on discord
+<br><br>**ubochka** on discord
 
 <!---
 pincherMaria/pincherMaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
