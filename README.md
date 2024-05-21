@@ -1,4 +1,4 @@
-# - Hi, I’m @pincherMaria
+# - Hi, I’m @ubochka
 country music :D
 <br>Currently learning Java Frameworks, starting python
 <br>Looking to collaborate on literally anything to gain some experience
